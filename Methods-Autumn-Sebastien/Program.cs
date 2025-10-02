@@ -33,6 +33,7 @@ namespace Methods_Autumn_Sebastien
             Console.WriteLine("Sebastien's favorite number is " + sebastienFavoriteNumber + " :(");
             //add sebastien's print here
 
+            //call the Add function here
             int sum = Add(autumnFavoriteNumber, sebastienFavoriteNumber);
             Console.WriteLine("The sum of our favorite numbers is: " + sum + "!");
 
