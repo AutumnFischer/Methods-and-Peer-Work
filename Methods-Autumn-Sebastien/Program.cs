@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int autumnFavoriteNumber;
+            int sebastienFavoriteNumber;
+
+            //initialize
+            autumnFavoriteNumber = 13;
+            sebastienFavoriteNumber = 69;
+
+            //start the real stuff
         }
     }
 }
