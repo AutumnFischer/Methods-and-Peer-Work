@@ -20,6 +20,7 @@ namespace Methods_Autumn_Sebastien
             Console.WriteLine("Autumn's favorite number is " + autumnFavoriteNumber + "!");
             //add sebastien's print here
 
+            //call the Add function here
             int sum = Add(autumnFavoriteNumber, sebastienFavoriteNumber);
             Console.WriteLine("The sum of our favorite numbers is: " + sum + "!");
         }
